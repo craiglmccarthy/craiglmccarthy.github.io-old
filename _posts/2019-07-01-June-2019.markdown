@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "June 2019"
+date:   2019-07-01 00:00:00 +0000
+# categories: jekyll update
+---
+
+This month I got to grips with the use of virtual environments and the integration of Git and GitHub into Visual Studio Code. I also set up the Windows Subsystem for Linux so I can use Bash commands.
+
+I put some more work into the GUI data entry automation project - it is now complete and I have built it into a windows executable via *pyinstaller*.
+
+I also carried on with the MARC 21 automation project, now called the *Doc-o-matic*. I had thought about building a user interface using the Flask web framework but I ultimately decided against this.
+
+Instead, I looked into the *Tkinter* module to build a GUI - I'm quite pleased with the end result. I also added the option for the MARC 21 records to be merged into a single file after their creation.
+
+The third week of the month consisted of watching tutorials about *pygame*. At some point I'm hoping to build a simple 2D shmup - this is likely to be an ongoing project.
+
+The final week of the month saw a relative decline in Python related activity. With Bitcoin making the news again, I decided to take another look into it. I watched a few lectures by Andreas Antonopoulos (he seems to be the expert) and I read through the original white paper - *Bitcoin: A Peer-to-Peer Electronic Cash System*. Blockchain really is a cool technology. 

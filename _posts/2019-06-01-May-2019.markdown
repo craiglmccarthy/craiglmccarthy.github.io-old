@@ -1,0 +1,52 @@
+---
+layout: post
+title:  "May 2019"
+date:   2019-06-01 00:00:00 +0000
+# categories: jekyll update
+---
+
+This month mostly consisted of working through *Automate the Boring Stuff* (2015) by Al Sweigart; *Think Python* (2015) by Allen Downey; and the end of *Python Crash Course* (2015) by Eric Matthes.
+
+I thoroughly enjoyed all three books; completing most of the exercises in *Automate the Boring Stuff* and *Python Crash Course* - the exception being the final project of *Python Crash Course*, the Django app. I made it up to the point of styling the app with Bootstrap. I kinda then got side-tracked with the testing of various Linux distributions instead. Though I really like the philosophy of Linux, i.e. FOSS, I’m still going to stick with Windows for the time being.
+
+*Think Python* was mostly a skim read and this probably didn't do the book justice - I’m hoping to go back and work through the exercises at some point.
+
+I started two projects:
+
+* a data entry automation program that uses GUI automation to fill out forms;
+
+* and a program that parses pdf documents to automate the production of MARC 21 library catalogue records.
+
+The data entry automation program uses a mixture of regular expressions to parse plain text copied from a CRM system, determines the actions to take depending on the data parsed, and then finally fulfils them using *pyautogui*. Using an API would make a lot more sense, however it's still fun to see the mouse and keyboard take on a life of their own. I've also been looking into source control via Git - I'll push the project to Github at a later date.
+
+The second program pulls pdf files from my company's website, parses the content and produces skeleton MARC 21 library catalogue records. The records can then later be imported into a Library Management System. The program makes use of the *pymarc* Python module to output the data in the correct format. While the first program was mostly built as a learning exercise, this program should actually prove quite useful in my job.
+
+
+
+<!-- EXAMPLE original filename: 2019-07-07-welcome-jekyll.markdown
+---
+layout: post
+title:  "Welcome to Jekyll!"
+date:   2019-07-07 12:25:45 +0100
+categories: jekyll update
+---
+You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+
+To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+
+Jekyll also offers powerful support for code snippets:
+
+{% highlight ruby %}
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+{% endhighlight %}
+
+Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
+-->
