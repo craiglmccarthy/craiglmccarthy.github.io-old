@@ -7,7 +7,7 @@ date:   2019-08-01 00:00:00 +0000
 
 This month mostly consisted of readings. I made my way through *HTML and CSS: Design and Build Websites* (Jon Duckett, 2011), *JavaScript and jQuery: Interactive Front-End Web Development* (Jon Duckett, 2013), and I started *Python for Data Analysis* (McKinney, 2017).
 
-The web development books served as both a refresher (I've already got quite a bit of experience regarding HTML and CSS) and a primer for the freeCodeCamp courses that I hope to start in August. I quite liked both books but was aware that they were heavily dated in quite a lot of areas.
+The web development books served as both a refresher (I've already got quite a bit of experience regarding HTML and CSS) and a primer for the freeCodeCamp courses that I hope to start in August. I quite liked both books but I was aware that they need updating in quite a lot of places.
 
 In addition to starting the McKinney book, I signed up to and completed the following courses on DataCamp:
 
