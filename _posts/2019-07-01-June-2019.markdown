@@ -16,3 +16,7 @@ Instead, I looked into the *Tkinter* module to build a GUI - I'm quite pleased w
 The third week of the month consisted of watching tutorials about *pygame*. At some point I'm hoping to build a simple 2D shmup - this is likely to be an ongoing project.
 
 The final week of the month saw a relative decline in Python related activity. With Bitcoin making the news again, I decided to take another look into it. I watched a few lectures by Andreas Antonopoulos (he seems to be the expert) and I read through the original white paper - *Bitcoin: A Peer-to-Peer Electronic Cash System*. Blockchain really is a cool technology. 
+
+Here's a screenshot of the *Doc-o-matic* GUI -
+
+![Doc-o-matic](/assets/doc_o_matic.png)
