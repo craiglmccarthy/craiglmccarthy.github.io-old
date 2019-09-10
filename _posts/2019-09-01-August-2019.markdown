@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "August 2019"
+date:   2019-09-01 00:00:00 +0000
+# categories: jekyll update
+---
+
+This month was fairly quiet on the coding front. The first half of the month was largely taken up by a visit to Poland - to the cities of Krakow and Warsaw. I had a great time and I definitely had my fair share of pierogi.
+
+Here's the progress that I made in August -
+
+* I read *JavaScript and jQuery: Interactive Front-End Web Development* (Jon Duckett, 2013) and *Superintelligence* (Bostrom, 2014)
+
+* I started freeCodeCamp and completed most of the Responsive Web Design Certification (excluding the final projects). I managed to put together some design mock-ups for the final projects and hope to get them completed by the end of September
+
+* I started working my way through [https://internetingishard.com/](https://internetingishard.com/) - which I've found to be a really good resource
+
+* I completed the following modules on DataCamp - *Cleaning Data in Python*; *Introduction to Data Science in Python*; *Pandas Foundations*; and *Manipulating DataFrames with pandas*
+
+Since deciding to record my learning progress, I've kept a rough record of the hours spent each day. I've put together some data visualisations using pandas/Matplotlib, which you can see below, styled in xkcd :) -
+
+![Doc-o-matic](/assets/daily_study_aug.png)
+
+![Doc-o-matic](/assets/cumulative_study_aug.png)
