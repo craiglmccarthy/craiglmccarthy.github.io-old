@@ -19,6 +19,6 @@ Here's the progress that I made in August -
 
 Since deciding to record my learning progress, I've kept a rough record of the hours spent each day. I've put together some data visualisations using pandas/Matplotlib, which you can see below, styled in xkcd :) -
 
-![Doc-o-matic](/assets/daily_study_aug.png)
+![Daily study](/assets/daily_study_aug.png)
 
-![Doc-o-matic](/assets/cumulative_study_aug.png)
+![Cumulative study](/assets/cumulative_study_aug.png)
