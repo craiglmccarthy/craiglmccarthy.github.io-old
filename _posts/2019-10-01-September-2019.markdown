@@ -1,0 +1,26 @@
+---
+layout: post
+title: "September 2019"
+date: 2019-10-01 00:00:00 +0000
+# categories: jekyll update
+---
+
+This month was a bit busier than the previous month.
+
+I have decided to take a break from DataCamp and have decided to hit up the books instead. I'll return to
+DataCamp after I've finished reading -
+
+- _Python for Data Analysis_ (Wes McKinney, 2017)
+- _Data Science from Scratch_ (Joel Grus, 2019)
+
+I started to watch the 2019 CS50 lectures from Harvard University, CS50 being an introductory computer science course. The lectures so far have covered - Scratch, C, arrays, algorithms, and memory. I've been really impressed by the course - especially its high quality production values.
+
+I read _Blockchain Basics: A Non-Technical Introduction in 25 Steps_ (Drescher, 2017) and _Digital Gold: The Untold Story of Bitcoin_ (Popper, 2016). The first book provided a good overview of how blockchain works and its application in the wider world. The second book provided a fascinating history of bitcoin.
+
+I completed the following freeCodeCamp projects for the Responsive Web Design Certification - Tribute Page, Survey Form, Product Landing Page (only 2 more to go!).
+
+I did a bit more work on the _Doc-o-matic_ - I managed to get it to communicate with my work's taxonomy server using API calls. This enables the _Doc-o-matic_ to generate subject classification fields in the MARC records. I also did some practical data wrangling using pandas on data obtained from the library LMS.
+
+Hours studied (daily) subplots-
+
+![Daily study subplots](/assets/sub_plots_sep.png)
