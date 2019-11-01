@@ -6,7 +6,7 @@ permalink: /about/
 
 Hi! I'm Craig.
 
-I'll be using this blog to record my progress and thoughts as I learn about web development, programming, and data science.
+I'll be using this blog to record my progress and thoughts as I learn web development, programming, and data science.
 
 It'll mostly be a monthly round-up of my activities in learning the dark arts of:
 
