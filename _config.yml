@@ -16,7 +16,7 @@
 title: craiglmccarthy's code blog
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A place to record my progress and thoughts as I learn about web development, programming, and data science.
+  A place to record my progress and thoughts as I learn web development, programming, and data science.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
