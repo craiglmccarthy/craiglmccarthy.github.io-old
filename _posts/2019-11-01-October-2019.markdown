@@ -1,0 +1,35 @@
+---
+layout: post
+title: "October 2019"
+date: 2019-11-01 00:00:00 +0000
+# categories: jekyll update
+---
+
+The greatest achievement of October was that I finally managed to finish the freeCodeCamp Responsive Web Design Certification. It took a lot longer than I had originally anticipated; though towards the end I think I had got my workflows figured out. Next stop - JavaScript Algorithms and Data Structures Certification.
+
+I also bought a Raspberry Pi to do some coding on while I'm at work. I actually had one of these a number of years ago, I had the Pi 2. However, I'm really impressed with the power of the new model - I think you could definitely run it as a main desktop computer. The screenshot below shows the _Doc-o-matic_ running on Raspbian. I've also got a few projects planned specifically for the Raspberry Pi.
+
+I read:
+
+- _Python for Data Analysis_ (Wes McKinney, 2017)
+- _Principles of Data Wrangling: Practical Techniques for Data Preparation_ (Rattenbury, 2017)
+- _Mathematics: A Very Short Introduction_ (Gowers, 2002)
+
+I completed:
+
+- Technical Documentation Page (freeCodeCamp project)
+- Personal Portfolio Website Page (freeCodeCamp project)
+
+I watched:
+
+- CS-50 Data Structures
+- CS-50 Python
+- CS-50 SQL
+
+I started reading:
+
+- _Make your own neural network_ (Rashid, 2016)
+
+Doc-o-matic running on a Raspberry Pi-
+
+![Doc-o-matic on Raspberry Pi](/assets/rasp_docomatic.jpeg)
