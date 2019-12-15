@@ -1,0 +1,19 @@
+---
+layout: post
+title: "November 2019"
+date: 2019-12-01 00:00:00 +0000
+# categories: jekyll update
+---
+
+November saw me finishing _Make Your Own Neural Network_ (Rashid, 2016), making good progress with the freeCodeCamp - JavaScript Algorithms and Data Structures Certification, and attending my first coding meetup with Python London.
+
+_Make Your Own Neural Network_ was a good read -  it definitely demystified the whole goings on in neural networks. It goes through the implementation of a neural network to recognise handwriting samples using the [MNIST database](https://en.wikipedia.org/wiki/MNIST_database) . The math wasn't *that* intimidating either. 
+
+The Python London meetup was really cool, the topic of discussion being - Natural Language Processing. The discussion introduced a few of the common tools used in NLP, such as the [NLT](https://en.wikipedia.org/wiki/Natural_Language_Toolkit) and [spaCy](https://en.wikipedia.org/wiki/SpaCy).
+
+I also put together a small project based around the Raspberry Pi and the Raspberry Pi camera. The GitHub rep is available [here](https://github.com/craiglmccarthy/class-o-vision).
+
+I read:
+- _You Don't Know JS Yet: Get Started_ (Simpson, K., 2019)
+
+I started working my way through the [The Modern JavaScript Tutorial](https://javascript.info/).
