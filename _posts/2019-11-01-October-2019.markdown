@@ -28,7 +28,7 @@ I watched:
 
 I started reading:
 
-- _Make your own neural network_ (Rashid, 2016)
+- _Make Your Own Neural Network_ (Rashid, 2016)
 
 Doc-o-matic running on a Raspberry Pi-
 
